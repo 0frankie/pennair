@@ -19,13 +19,13 @@ To get the output of the code, simply run the file. The output file will be in t
 ![pennair1_completed.png](resources/pennair1/pennair1_completed.png)
 
 **Challenge 2**:
-[pennair2_out.mp4](resources/pennair2/pennair2_out.mp4)
+![pennair2_out.gif](resources/pennair2/pennair2_out.gif)
 
 **Challenge 3**:
-[pennair3_out.mp4](resources/pennair3/pennair3_out.mp4)
+![pennair3_out.gif](resources/pennair3/pennair3_out.gif)
 
 **Performance on Challenge 3** (10 second video 300 frames):
-[pennair3_performance.mov](resources/pennair3/pennair3_performance.mov)
+![pennair3_performance.gif](resources/pennair3/pennair3_performance.gif)
 
 ### Processes
 **Challenge 1**: I initially used a RGB to grayscale algorithm, before realizing some of the shapes were either too bright or too dark. Then, I pivoted to using HSV
